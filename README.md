@@ -9,6 +9,8 @@ It runs Aether (2.1+) as a local SOCKS5 proxy or as a full system VPN, and can c
 - Android version: <https://github.com/Mrmmd2004/ClubappVpnAndroid>
 - Author: [@Mrmmd2004](https://github.com/Mrmmd2004)
 
+<img width="819" height="758" alt="Screenshot 2026-10-04" src="https://github.com/user-attachments/assets/26373faa-b0fd-46d3-b1c3-e43a9eb7fcf4" />
+
 ---
 
 ## English
